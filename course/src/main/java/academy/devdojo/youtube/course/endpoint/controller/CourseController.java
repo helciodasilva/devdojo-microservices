@@ -1,6 +1,6 @@
 package academy.devdojo.youtube.course.endpoint.controller;
 
-import academy.devdojo.youtube.course.endpoint.model.Course;
+import academy.devdojo.youtube.core.model.Course;
 import academy.devdojo.youtube.course.endpoint.service.CourseService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

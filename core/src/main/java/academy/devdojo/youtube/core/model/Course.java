@@ -1,8 +1,7 @@
-package academy.devdojo.youtube.course.endpoint.model;
+package academy.devdojo.youtube.core.model;
 
 import lombok.*;
 
-import javax.annotation.processing.Generated;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
